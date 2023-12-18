@@ -16,7 +16,7 @@ To get started with using or contributing to this project, follow these steps:
    cd git_next_line
 2.Compile the source code:
    ```bash
-   gcc get_next_line.c get_next_line_utils.c
+      gcc get_next_line.c get_next_line_utils.c
 
 ## Usage
 
