@@ -15,7 +15,7 @@ To get started with using or contributing to this project, follow these steps:
    git clone https://github.com/OussamaHammou236/git_next_line.git
    cd git_next_line
 2.Compile the source code:
-   
+   ```bash
    gcc get_next_line.c get_next_line_utils.c
 
 ## Usage
